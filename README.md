@@ -8,6 +8,8 @@ Año 1985: imágenes Landsat 5, valor NDSI mayores a 0,09.
 Años 2001 a 2013: imágenes Landsat 7, valor NDSI mayores a 0,09.
 Años 2014 a 2021 (mayo): imágenes Landsat 8, valor NDSI mayores a 0,2.
 
+Incluye estadística de la media  de todo el conjunto de datos para NDSI  fuente ClimnateEngine
+
 Proveedor de los datos: USGS y NASA.
 Escala espacial: 30 metros
 
