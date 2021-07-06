@@ -1,4 +1,7 @@
-# CambioNeval_ElCocuy_1985-2021may
+# CambioNeval_ElCocuy_1985-2021ma
+<  p align="centro">
+< img width=  "360" src= "
+ 
 
 El índice de nieve de diferencia normalizada se utiliza para identificar la nieve, en función de su reflectancia característicamente más alta en la parte visible del espectro en comparación con el IR medio. NDSI se calcula utilizando las bandas verde e IR medio, y tiene un rango de -1,0 a 1,0. 
 
