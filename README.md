@@ -1,6 +1,6 @@
 CambioNeval_ElCocuy_1985-2021ma
 
-< p align = "centro"> 
+< p align = "centro">
  < img width= "360" src= "/Gif/CambioNeval_ElCocuy_1985-2021mayo.gif">
 </p>
 
