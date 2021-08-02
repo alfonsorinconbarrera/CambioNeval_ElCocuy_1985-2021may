@@ -14,4 +14,3 @@ Proveedor de los datos: USGS y NASA. Escala espacial: 30 metros
 
 Composición y análisis: Alfonso rincón barrera
 
-Gestión digital: Fredy alberto hernández corredor
